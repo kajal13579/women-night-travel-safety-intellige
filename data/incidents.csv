@@ -1,0 +1,6 @@
+incident_id,location_id,date,incident_category
+I001,L001,2026-09-10,Example_A
+I002,L002,2026-09-11,Example_B
+I003,L001,2026-09-12,Example_A
+I004,L003,2026-09-13,Example_C
+I005,L004,2026-09-14,Example_B
